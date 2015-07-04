@@ -1,0 +1,1010 @@
+create 0 0
+login 0 0
+deposit 9
+create 1 1
+login 1 1
+deposit 7
+create 2 2
+login 2 2
+deposit 1
+login 0 0
+search 0
+deposit 8
+merge 1 1 2 2
+withdraw 0
+create 2 2
+search 1
+withdraw 6
+search 0
+login 1 1
+withdraw 0
+create 0 0
+merge 2 2 0 0
+create 0 0
+login 1 1
+create 1 1
+transfer 2 4
+deposit 4
+withdraw 2
+withdraw 5
+create 1 1
+create 1 1
+deposit 4
+create 0 0
+transfer 2 0
+transfer 2 7
+search 0
+delete 2 2
+create 2 2
+withdraw 4
+transfer 0 9
+deposit 0
+create 0 0
+search 2
+delete 0 0
+create 2 2
+delete 2 2
+transfer 2 5
+search 0
+delete 2 2
+create 0 0
+deposit 8
+withdraw 9
+transfer 0 4
+create 1 1
+merge 1 1 0 0
+delete 2 2
+withdraw 3
+search 1
+deposit 6
+transfer 0 1
+deposit 4
+withdraw 0
+create 2 2
+delete 0 0
+delete 0 0
+delete 0 0
+search 0
+search 2
+search 1
+login 1 1
+deposit 4
+deposit 2
+merge 0 0 2 2
+transfer 0 8
+search 0
+withdraw 5
+search 2
+deposit 5
+login 1 1
+create 0 0
+search 0
+deposit 0
+transfer 2 3
+withdraw 0
+deposit 0
+transfer 2 7
+search 0
+login 1 1
+merge 2 2 0 0
+create 1 1
+deposit 5
+deposit 2
+login 1 1
+create 0 0
+withdraw 3
+transfer 0 7
+merge 1 1 2 2
+search 1
+withdraw 7
+deposit 2
+create 0 0
+delete 2 2
+deposit 8
+merge 1 1 2 2
+deposit 0
+merge 0 0 2 2
+search 0
+withdraw 9
+search 0
+search 0
+create 0 0
+create 0 0
+delete 2 2
+withdraw 6
+delete 2 2
+transfer 2 2
+transfer 0 1
+create 1 1
+merge 1 1 0 0
+search 1
+create 1 1
+search 0
+login 1 1
+login 1 1
+deposit 4
+create 1 1
+transfer 0 8
+withdraw 8
+create 2 2
+delete 0 0
+search 0
+withdraw 1
+login 1 1
+search 2
+delete 2 2
+deposit 7
+search 0
+search 0
+create 0 0
+search 2
+transfer 0 1
+deposit 4
+create 0 0
+create 1 1
+create 1 1
+deposit 3
+create 1 1
+transfer 2 8
+withdraw 1
+create 1 1
+search 1
+search 0
+create 2 2
+withdraw 2
+create 0 0
+withdraw 8
+deposit 9
+transfer 2 3
+deposit 6
+merge 0 0 2 2
+withdraw 0
+create 2 2
+search 0
+deposit 0
+search 2
+delete 2 2
+create 1 1
+search 2
+search 1
+create 0 0
+delete 2 2
+merge 2 2 0 0
+delete 2 2
+search 2
+merge 1 1 2 2
+transfer 0 9
+transfer 2 2
+deposit 0
+create 0 0
+deposit 9
+withdraw 8
+search 0
+merge 1 1 2 2
+delete 0 0
+withdraw 1
+create 2 2
+merge 1 1 0 0
+delete 0 0
+delete 0 0
+transfer 2 6
+search 2
+withdraw 8
+withdraw 0
+deposit 1
+withdraw 2
+withdraw 7
+merge 1 1 0 0
+search 0
+transfer 0 6
+withdraw 5
+create 0 0
+withdraw 7
+delete 0 0
+withdraw 9
+search 1
+withdraw 7
+deposit 4
+search 0
+deposit 1
+delete 2 2
+withdraw 9
+deposit 1
+create 0 0
+search 2
+merge 1 1 2 2
+deposit 9
+transfer 2 4
+withdraw 9
+create 2 2
+create 1 1
+login 1 1
+deposit 9
+deposit 4
+search 1
+transfer 0 6
+withdraw 5
+deposit 1
+create 2 2
+create 2 2
+create 0 0
+search 0
+login 1 1
+delete 0 0
+withdraw 5
+deposit 9
+deposit 6
+withdraw 0
+merge 2 2 0 0
+transfer 2 7
+search 1
+transfer 0 8
+delete 2 2
+withdraw 7
+delete 2 2
+login 1 1
+deposit 0
+delete 2 2
+deposit 8
+merge 2 2 0 0
+withdraw 0
+create 1 1
+withdraw 4
+merge 0 0 2 2
+merge 0 0 2 2
+withdraw 0
+create 1 1
+create 1 1
+create 1 1
+transfer 2 0
+transfer 0 7
+search 0
+withdraw 6
+withdraw 1
+withdraw 5
+search 1
+delete 2 2
+deposit 3
+deposit 9
+delete 0 0
+search 0
+delete 2 2
+search 2
+create 0 0
+search 2
+transfer 2 9
+withdraw 8
+search 0
+delete 2 2
+deposit 9
+delete 0 0
+search 1
+deposit 5
+search 1
+transfer 0 3
+merge 1 1 0 0
+deposit 6
+merge 2 2 0 0
+withdraw 3
+merge 0 0 2 2
+create 2 2
+create 1 1
+search 1
+delete 0 0
+search 2
+withdraw 1
+search 1
+withdraw 2
+create 1 1
+withdraw 8
+create 1 1
+withdraw 3
+deposit 1
+create 1 1
+delete 0 0
+deposit 1
+withdraw 2
+create 0 0
+deposit 8
+deposit 4
+merge 2 2 0 0
+delete 2 2
+transfer 0 0
+search 2
+create 2 2
+login 1 1
+withdraw 4
+withdraw 8
+delete 0 0
+search 1
+create 1 1
+search 2
+delete 2 2
+delete 2 2
+search 0
+withdraw 5
+merge 0 0 2 2
+search 0
+search 2
+delete 0 0
+deposit 5
+withdraw 1
+merge 1 1 0 0
+delete 0 0
+delete 2 2
+deposit 2
+create 0 0
+delete 2 2
+transfer 0 5
+withdraw 4
+search 2
+login 1 1
+search 1
+withdraw 1
+create 2 2
+search 0
+transfer 0 4
+create 1 1
+withdraw 2
+delete 0 0
+create 1 1
+transfer 2 2
+deposit 5
+delete 2 2
+deposit 7
+deposit 3
+delete 0 0
+create 2 2
+create 0 0
+login 1 1
+deposit 4
+create 2 2
+create 1 1
+deposit 6
+login 1 1
+create 0 0
+search 2
+merge 2 2 0 0
+transfer 0 7
+search 0
+create 1 1
+withdraw 7
+create 0 0
+deposit 4
+deposit 5
+delete 0 0
+deposit 5
+deposit 5
+create 1 1
+deposit 2
+search 2
+create 1 1
+withdraw 0
+withdraw 9
+deposit 3
+create 0 0
+delete 2 2
+deposit 3
+transfer 2 5
+transfer 2 5
+search 1
+transfer 0 9
+transfer 2 1
+withdraw 0
+search 1
+deposit 0
+merge 1 1 0 0
+login 1 1
+search 1
+search 0
+create 0 0
+create 1 1
+login 1 1
+transfer 2 7
+withdraw 2
+withdraw 6
+deposit 1
+search 2
+search 2
+withdraw 2
+transfer 2 2
+login 1 1
+delete 2 2
+deposit 4
+create 2 2
+merge 0 0 2 2
+create 0 0
+delete 2 2
+delete 2 2
+deposit 0
+search 1
+withdraw 5
+create 1 1
+delete 2 2
+create 0 0
+delete 2 2
+merge 0 0 2 2
+transfer 0 0
+withdraw 4
+create 2 2
+withdraw 6
+search 0
+create 0 0
+withdraw 1
+create 0 0
+search 1
+search 2
+transfer 2 6
+deposit 4
+search 1
+search 1
+login 1 1
+deposit 0
+search 2
+deposit 7
+delete 0 0
+create 1 1
+login 1 1
+transfer 0 1
+create 2 2
+login 1 1
+create 2 2
+search 1
+withdraw 4
+delete 0 0
+withdraw 9
+create 0 0
+create 0 0
+search 1
+deposit 8
+withdraw 9
+delete 2 2
+transfer 2 5
+withdraw 7
+deposit 1
+create 0 0
+delete 2 2
+transfer 0 8
+delete 2 2
+deposit 0
+create 1 1
+create 0 0
+create 2 2
+search 0
+login 1 1
+withdraw 9
+create 0 0
+withdraw 9
+delete 2 2
+search 0
+create 0 0
+search 2
+withdraw 8
+withdraw 3
+search 0
+withdraw 9
+delete 0 0
+search 2
+delete 2 2
+login 1 1
+transfer 0 1
+transfer 0 7
+create 0 0
+create 2 2
+create 1 1
+create 0 0
+search 0
+merge 2 2 0 0
+login 1 1
+create 0 0
+transfer 0 2
+withdraw 2
+create 0 0
+search 1
+delete 0 0
+search 2
+withdraw 2
+create 0 0
+delete 0 0
+transfer 0 4
+withdraw 7
+withdraw 7
+search 2
+search 2
+search 2
+merge 1 1 2 2
+create 1 1
+search 2
+delete 0 0
+create 2 2
+create 0 0
+login 1 1
+transfer 0 1
+search 0
+deposit 1
+login 1 1
+deposit 1
+deposit 4
+login 1 1
+delete 0 0
+transfer 0 3
+withdraw 3
+merge 0 0 2 2
+delete 2 2
+create 0 0
+transfer 2 9
+withdraw 4
+withdraw 8
+create 2 2
+transfer 2 9
+delete 0 0
+create 2 2
+withdraw 3
+withdraw 1
+withdraw 9
+merge 1 1 0 0
+create 2 2
+transfer 2 9
+create 1 1
+create 0 0
+search 0
+merge 0 0 2 2
+login 1 1
+transfer 0 6
+deposit 4
+search 2
+delete 0 0
+transfer 2 7
+create 0 0
+transfer 2 8
+deposit 1
+delete 0 0
+create 0 0
+transfer 2 1
+create 0 0
+delete 2 2
+delete 0 0
+merge 2 2 0 0
+delete 0 0
+search 0
+deposit 7
+deposit 7
+withdraw 8
+deposit 5
+deposit 0
+transfer 2 9
+merge 1 1 0 0
+merge 2 2 0 0
+merge 2 2 0 0
+deposit 1
+merge 1 1 0 0
+delete 2 2
+withdraw 2
+deposit 3
+create 0 0
+withdraw 5
+deposit 9
+create 0 0
+deposit 5
+login 1 1
+merge 1 1 2 2
+create 2 2
+deposit 3
+merge 2 2 0 0
+search 2
+create 0 0
+search 2
+withdraw 9
+transfer 0 6
+delete 0 0
+transfer 2 1
+search 1
+merge 1 1 0 0
+withdraw 8
+deposit 7
+merge 0 0 2 2
+transfer 2 8
+withdraw 7
+delete 2 2
+login 1 1
+transfer 2 3
+transfer 2 5
+transfer 2 0
+create 1 1
+delete 0 0
+transfer 2 3
+withdraw 2
+withdraw 0
+delete 0 0
+deposit 4
+delete 2 2
+search 0
+delete 0 0
+search 0
+create 1 1
+deposit 7
+create 1 1
+create 0 0
+withdraw 7
+create 1 1
+create 0 0
+transfer 2 2
+transfer 0 7
+search 2
+search 2
+delete 0 0
+delete 0 0
+merge 1 1 0 0
+search 2
+withdraw 9
+search 0
+deposit 5
+deposit 3
+login 1 1
+delete 0 0
+create 0 0
+create 0 0
+delete 2 2
+transfer 0 6
+withdraw 1
+search 1
+deposit 4
+transfer 2 5
+deposit 1
+create 2 2
+transfer 0 7
+deposit 3
+login 1 1
+create 1 1
+create 0 0
+withdraw 6
+withdraw 5
+transfer 2 0
+deposit 8
+merge 0 0 2 2
+transfer 0 2
+search 0
+search 2
+create 1 1
+search 0
+transfer 0 6
+create 2 2
+merge 2 2 0 0
+merge 2 2 0 0
+deposit 7
+create 1 1
+login 1 1
+withdraw 9
+delete 2 2
+delete 0 0
+create 1 1
+delete 0 0
+withdraw 3
+delete 2 2
+create 2 2
+withdraw 2
+withdraw 0
+create 1 1
+deposit 4
+create 0 0
+login 1 1
+delete 0 0
+transfer 2 9
+login 1 1
+deposit 2
+search 0
+withdraw 4
+search 2
+search 0
+deposit 5
+search 0
+withdraw 9
+withdraw 7
+withdraw 7
+transfer 0 3
+withdraw 1
+deposit 3
+create 0 0
+search 2
+deposit 7
+deposit 9
+search 0
+deposit 6
+withdraw 1
+merge 1 1 2 2
+create 0 0
+create 1 1
+create 2 2
+deposit 5
+withdraw 7
+create 1 1
+deposit 0
+delete 0 0
+create 1 1
+create 0 0
+search 1
+withdraw 6
+transfer 0 4
+deposit 4
+search 0
+deposit 6
+search 1
+withdraw 6
+deposit 1
+login 1 1
+transfer 2 8
+deposit 1
+merge 2 2 0 0
+delete 2 2
+search 0
+create 0 0
+create 2 2
+delete 2 2
+create 1 1
+create 2 2
+merge 1 1 0 0
+search 2
+deposit 1
+create 1 1
+search 2
+deposit 0
+deposit 8
+search 0
+delete 0 0
+withdraw 4
+transfer 2 3
+create 0 0
+login 1 1
+deposit 2
+create 0 0
+search 0
+deposit 2
+deposit 5
+delete 0 0
+delete 2 2
+delete 0 0
+delete 2 2
+withdraw 4
+delete 0 0
+transfer 0 7
+deposit 2
+login 1 1
+delete 2 2
+search 0
+deposit 9
+withdraw 0
+deposit 3
+delete 0 0
+withdraw 3
+search 0
+deposit 2
+delete 0 0
+delete 0 0
+merge 1 1 0 0
+delete 2 2
+withdraw 0
+deposit 6
+create 2 2
+withdraw 9
+withdraw 8
+search 1
+merge 1 1 2 2
+merge 1 1 0 0
+transfer 0 9
+search 0
+transfer 0 2
+transfer 2 0
+withdraw 9
+merge 0 0 2 2
+deposit 5
+withdraw 4
+create 1 1
+delete 2 2
+withdraw 9
+deposit 6
+withdraw 2
+login 1 1
+withdraw 4
+withdraw 9
+create 2 2
+deposit 4
+withdraw 9
+deposit 8
+withdraw 4
+deposit 1
+withdraw 4
+search 1
+deposit 3
+withdraw 3
+create 1 1
+search 2
+transfer 0 0
+delete 2 2
+withdraw 9
+transfer 2 5
+withdraw 8
+delete 2 2
+deposit 1
+search 2
+withdraw 4
+deposit 1
+withdraw 6
+transfer 2 7
+create 1 1
+transfer 0 2
+create 1 1
+delete 0 0
+withdraw 4
+search 0
+delete 2 2
+withdraw 8
+deposit 3
+create 0 0
+create 1 1
+withdraw 1
+delete 2 2
+login 1 1
+delete 0 0
+delete 0 0
+transfer 0 7
+create 1 1
+deposit 7
+deposit 0
+delete 0 0
+withdraw 8
+create 0 0
+withdraw 9
+search 1
+deposit 2
+create 1 1
+deposit 3
+withdraw 9
+create 1 1
+create 2 2
+transfer 0 3
+search 1
+deposit 0
+withdraw 4
+search 0
+create 2 2
+search 1
+search 1
+withdraw 2
+merge 0 0 2 2
+deposit 1
+withdraw 2
+delete 0 0
+search 0
+search 2
+create 2 2
+search 1
+merge 2 2 0 0
+search 0
+deposit 1
+deposit 1
+create 1 1
+transfer 2 9
+search 0
+search 2
+transfer 2 7
+transfer 0 2
+withdraw 2
+create 2 2
+create 0 0
+search 1
+search 1
+withdraw 5
+login 1 1
+delete 2 2
+delete 0 0
+transfer 2 8
+delete 2 2
+deposit 8
+delete 0 0
+withdraw 0
+merge 0 0 2 2
+create 2 2
+delete 2 2
+withdraw 7
+deposit 9
+withdraw 9
+deposit 9
+merge 2 2 0 0
+deposit 3
+deposit 7
+create 0 0
+deposit 3
+transfer 0 9
+transfer 2 2
+create 2 2
+delete 0 0
+create 1 1
+transfer 0 3
+deposit 6
+search 0
+transfer 0 8
+merge 1 1 0 0
+withdraw 1
+login 1 1
+deposit 0
+search 0
+withdraw 1
+withdraw 4
+merge 2 2 0 0
+delete 2 2
+search 1
+create 2 2
+create 1 1
+search 2
+login 1 1
+delete 0 0
+delete 0 0
+create 1 1
+deposit 1
+withdraw 0
+create 0 0
+search 1
+withdraw 5
+login 1 1
+create 1 1
+delete 0 0
+search 0
+search 0
+transfer 0 0
+search 1
+transfer 2 8
+delete 0 0
+login 1 1
+deposit 9
+deposit 2
+deposit 4
+login 1 1
+delete 0 0
+withdraw 0
+deposit 8
+create 1 1
+withdraw 3
+withdraw 3
+deposit 6
+search 2
+transfer 0 1
+deposit 4
+search 2
+deposit 0
+deposit 4
+merge 1 1 0 0
+create 1 1
+deposit 6
+withdraw 1
+delete 0 0
+merge 2 2 0 0
+deposit 1
+delete 2 2
+search 2
+search 1
+delete 2 2
+merge 2 2 0 0
+withdraw 6
+withdraw 5
+deposit 8
+withdraw 8
+delete 0 0
+merge 1 1 0 0
+search 2
+search 2
+create 0 0
+merge 2 2 0 0
+search 1
+deposit 2
+transfer 2 1
+delete 0 0
+withdraw 4
+delete 0 0
+deposit 9
+deposit 2
+deposit 3
+deposit 0
+deposit 0
+deposit 5
+transfer 0 9
+withdraw 7

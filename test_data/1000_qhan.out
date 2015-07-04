@@ -1,0 +1,1944 @@
+success
+success
+success, 9 dollars in current account
+success
+success
+success, 7 dollars in current account
+success
+success
+success, 1 dollars in current account
+success
+no record
+success, 17 dollars in current account
+success, 1 has 8 dollars
+success, 17 dollars left in current account
+success
+no record
+success, 11 dollars left in current account
+no record
+success
+success, 8 dollars left in current account
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+success, 2 has 11 dollars
+success
+success
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+success, 4 dollars left in current account
+success, 8 dollars in current account
+success, 6 dollars left in current account
+success, 1 dollars left in current account
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+success, 5 dollars in current account
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+success, 5 dollars left in current account
+fail, 5 dollars only in current account
+no record
+success
+success
+success, 1 dollars left in current account
+fail, 1 dollars only in current account
+success, 1 dollars in current account
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+To 2 4
+To 2 0
+success
+ID 2 exists, 0,20,21,22,23,24,25,26,27,28
+success
+ID 2 not found, 1
+no record
+ID 2 not found
+success
+success, 9 dollars in current account
+success, 0 dollars left in current account
+fail, 0 dollars only in current account
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+success, 1 has 0 dollars
+ID 2 not found
+fail, 0 dollars only in current account
+no record
+success, 6 dollars in current account
+ID 0 not found, 1
+success, 10 dollars in current account
+success, 10 dollars left in current account
+success
+ID 0 not found
+ID 0 not found
+ID 0 not found
+no record
+To 2 4
+To 2 0
+no record
+success
+success, 14 dollars in current account
+success, 16 dollars in current account
+ID 0 not found
+ID 0 not found, 1,2
+no record
+success, 11 dollars left in current account
+To 2 4
+To 2 0
+success, 16 dollars in current account
+success
+success
+no record
+success, 16 dollars in current account
+success, 13 dollars left in current account
+success, 13 dollars left in current account
+success, 13 dollars in current account
+success, 6 dollars left in current account
+no record
+success
+success, 2 has 10 dollars
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success, 11 dollars in current account
+success, 13 dollars in current account
+success
+success
+success, 10 dollars left in current account
+success, 3 dollars left in current account
+success, 1 has 13 dollars
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+success, 6 dollars left in current account
+success, 8 dollars in current account
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+ID 2 not found
+success, 16 dollars in current account
+ID 2 not found
+success, 16 dollars in current account
+ID 2 not found
+To 0 7
+success, 7 dollars left in current account
+To 0 7
+To 0 7
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+ID 2 not found
+success, 1 dollars left in current account
+ID 2 not found
+ID 2 not found, 0,1
+success, 0 dollars left in current account
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+success, 1 has 8 dollars
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+no record
+success
+success
+success, 12 dollars in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+ID 0 not found, 1
+success, 4 dollars left in current account
+success
+ID 0 not found
+no record
+success, 3 dollars left in current account
+success
+To 2 4
+To 2 0
+success
+success, 10 dollars in current account
+no record
+no record
+success
+To 2 4
+To 2 0
+success, 9 dollars left in current account
+success, 13 dollars in current account
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+success, 16 dollars in current account
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+ID 2 not found, 0,1
+success, 15 dollars left in current account
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 0 1
+success
+success, 13 dollars left in current account
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+success, 5 dollars left in current account
+success, 14 dollars in current account
+success, 11 dollars left in current account
+success, 17 dollars in current account
+success, 0 has 4 dollars
+success, 17 dollars left in current account
+success
+To 0 1
+To 0 3
+success, 17 dollars in current account
+To 2 4
+To 2 0
+success
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+To 2 4
+To 2 0
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+ID 2 not found
+ID 2 not found
+ID 2 not found
+To 2 4
+To 2 0
+ID 2 not found
+success, 8 dollars left in current account
+ID 2 not found, 0,1
+success, 8 dollars in current account
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+success, 17 dollars in current account
+success, 9 dollars left in current account
+To 0 1
+To 0 3
+To 0 9
+ID 2 not found
+success
+success, 8 dollars left in current account
+success
+ID 0 not found
+ID 0 not found
+ID 0 not found
+success, 2 dollars left in current account
+To 2 4
+To 2 0
+To 2 6
+fail, 2 dollars only in current account
+success, 2 dollars left in current account
+success, 3 dollars in current account
+success, 1 dollars left in current account
+fail, 1 dollars only in current account
+ID 0 not found
+To 0 1
+To 0 3
+To 0 9
+ID 0 not found, 1,2
+fail, 1 dollars only in current account
+success
+fail, 1 dollars only in current account
+success
+fail, 1 dollars only in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+fail, 1 dollars only in current account
+success, 5 dollars in current account
+To 0 1
+To 0 3
+To 0 9
+success, 6 dollars in current account
+success
+fail, 6 dollars only in current account
+success, 7 dollars in current account
+success
+To 2 4
+To 2 0
+To 2 6
+ID 2 not found
+success, 16 dollars in current account
+ID 2 not found, 0,1
+success, 7 dollars left in current account
+success
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+success
+success, 16 dollars in current account
+success, 20 dollars in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+success, 14 dollars left in current account
+success, 9 dollars left in current account
+success, 10 dollars in current account
+ID 2 exists, 20,21,22,23,24,25,26,27,28,29
+ID 2 exists, 20,21,22,23,24,25,26,27,28,29
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+success
+success
+success, 5 dollars left in current account
+success, 14 dollars in current account
+success, 20 dollars in current account
+success, 20 dollars left in current account
+ID 0 not found
+success, 13 dollars left in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+ID 0 not found, 1,2
+success
+success, 6 dollars left in current account
+ID 2 not found
+success
+success, 6 dollars in current account
+ID 2 not found
+success, 14 dollars in current account
+ID 2 not found
+success, 14 dollars left in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success, 10 dollars left in current account
+ID 0 not found
+ID 0 not found
+success, 10 dollars left in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+ID 2 not found, 1
+ID 0 not found, 1
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+success, 4 dollars left in current account
+success, 3 dollars left in current account
+fail, 3 dollars only in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+ID 2 not found
+success, 6 dollars in current account
+success, 15 dollars in current account
+ID 0 not found
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+ID 2 not found
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+success
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+ID 2 not found, 0,1
+success, 7 dollars left in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+ID 2 not found
+success, 16 dollars in current account
+success
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+success, 21 dollars in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+ID 0 not found, 1
+ID 0 not found
+success, 27 dollars in current account
+ID 2 not found
+success, 24 dollars left in current account
+ID 0 not found
+success
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+ID 0 not found
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+success, 23 dollars left in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+success, 21 dollars left in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success, 13 dollars left in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success, 10 dollars left in current account
+success, 11 dollars in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+ID 0 not found
+success, 12 dollars in current account
+success, 10 dollars left in current account
+success
+success, 18 dollars in current account
+success, 22 dollars in current account
+success, 2 has 0 dollars
+success
+ID 0 not found, 1
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+success
+success
+success, 18 dollars left in current account
+success, 10 dollars left in current account
+ID 0 not found
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+success
+ID 2 not found
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+success, 5 dollars left in current account
+ID 0 not found
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+ID 0 not found
+success, 10 dollars in current account
+success, 9 dollars left in current account
+ID 0 not found
+ID 0 not found
+ID 2 not found
+success, 11 dollars in current account
+success
+ID 2 not found
+success, 6 dollars left in current account
+success, 2 dollars left in current account
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+success
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+success, 1 dollars left in current account
+success
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+fail, 1 dollars only in current account
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+fail, 1 dollars only in current account
+success
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+fail, 1 dollars only in current account
+success, 6 dollars in current account
+success
+success, 13 dollars in current account
+success, 16 dollars in current account
+ID 0 not found
+success
+success
+success
+success, 20 dollars in current account
+ID 2 exists, 20,21,22,23,24,25,26,27,28,29
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+success, 26 dollars in current account
+success
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+success, 2 has 0 dollars
+ID 0 not found, 1,2
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success, 19 dollars left in current account
+success
+success, 23 dollars in current account
+success, 28 dollars in current account
+success
+success, 33 dollars in current account
+success, 38 dollars in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success, 40 dollars in current account
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success, 40 dollars left in current account
+success, 31 dollars left in current account
+success, 34 dollars in current account
+success
+success
+success, 37 dollars in current account
+ID 2 not found, 0,1
+ID 2 not found, 0,1
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+success, 28 dollars left in current account
+ID 2 not found, 0,1
+success, 28 dollars left in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+success, 28 dollars in current account
+success, 1 has 37 dollars
+success
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+success
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+success
+ID 2 not found, 0,1
+success, 35 dollars left in current account
+success, 29 dollars left in current account
+success, 30 dollars in current account
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+success, 28 dollars left in current account
+ID 2 not found, 0,1
+success
+ID 2 not found
+success, 32 dollars in current account
+success
+success, 0 has 0 dollars
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+ID 2 not found
+ID 2 not found
+success, 32 dollars in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success, 27 dollars left in current account
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+ID 2 not found
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+ID 2 not found
+ID 2 not found
+success, 27 dollars left in current account
+success, 23 dollars left in current account
+success
+success, 17 dollars left in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+success, 16 dollars left in current account
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+success, 10 dollars left in current account
+success, 14 dollars in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success
+success, 14 dollars in current account
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+success, 21 dollars in current account
+success
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success
+ID 0 not found, 1,2
+ID 2 exists, 0,20,21,22,23,24,25,26,27,28
+success
+ID 2 exists, 0,20,21,22,23,24,25,26,27,28
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success, 17 dollars left in current account
+ID 0 not found
+success, 8 dollars left in current account
+success
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success, 16 dollars in current account
+success, 7 dollars left in current account
+success
+ID 2 not found, 0,1
+success, 0 dollars left in current account
+success, 1 dollars in current account
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+ID 2 not found
+fail, 1 dollars only in current account
+ID 2 not found
+success, 1 dollars in current account
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+success
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+success
+fail, 1 dollars only in current account
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+fail, 1 dollars only in current account
+success
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+fail, 1 dollars only in current account
+fail, 1 dollars only in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+fail, 1 dollars only in current account
+success
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+ID 2 not found
+success
+ID 0 not found, 1
+ID 0 not found, 1
+success
+success
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+success, 2 has 0 dollars
+success
+success
+fail, 1 dollars only in current account
+fail, 1 dollars only in current account
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+fail, 1 dollars only in current account
+success
+success
+ID 0 not found, 1,2
+fail, 1 dollars only in current account
+fail, 1 dollars only in current account
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+success, 1 has 1 dollars
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+ID 0 not found
+success
+success
+success
+success, 0 dollars left in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+success, 1 dollars in current account
+success
+success, 2 dollars in current account
+success, 6 dollars in current account
+success
+success
+ID 0 not found, 1,2
+success, 3 dollars left in current account
+ID 0 not found
+success
+success
+ID 2 not found, 0,1
+fail, 3 dollars only in current account
+fail, 3 dollars only in current account
+success
+fail, 3 dollars only in current account
+success
+ID 2 exists, 0,20,21,22,23,24,25,26,27,28
+success, 0 dollars left in current account
+fail, 0 dollars only in current account
+fail, 0 dollars only in current account
+ID 0 not found
+ID 2 exists, 0,20,21,22,23,24,25,26,27,28
+fail, 0 dollars only in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+success, 0 has 0 dollars
+success
+fail, 0 dollars only in current account
+success, 4 dollars in current account
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+success
+ID 2 not found, 1
+success
+ID 2 not found, 0,1
+success, 5 dollars in current account
+success
+success
+ID 2 not found, 0,1
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+ID 2 not found
+success
+ID 2 not found
+ID 0 not found
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+success, 12 dollars in current account
+success, 19 dollars in current account
+success, 11 dollars left in current account
+success, 16 dollars in current account
+success, 16 dollars in current account
+ID 2 not found, 1
+ID 0 not found
+ID 2 not found
+ID 2 not found
+success, 17 dollars in current account
+ID 0 not found
+ID 2 not found
+success, 15 dollars left in current account
+success, 18 dollars in current account
+success
+success, 13 dollars left in current account
+success, 22 dollars in current account
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+success, 27 dollars in current account
+success
+ID 2 not found
+success
+success, 30 dollars in current account
+success, 2 has 0 dollars
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+success
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+success, 21 dollars left in current account
+success, 15 dollars left in current account
+success
+success, 14 dollars left in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+ID 0 not found
+success, 6 dollars left in current account
+success, 13 dollars in current account
+ID 0 not found
+success, 5 dollars left in current account
+fail, 5 dollars only in current account
+success
+success
+ID 2 not found, 1
+ID 2 not found, 1
+ID 2 not found, 1
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+ID 0 not found
+ID 2 not found, 1
+success, 3 dollars left in current account
+success, 3 dollars left in current account
+ID 0 not found
+success, 7 dollars in current account
+ID 2 not found
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+ID 0 not found
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success, 14 dollars in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success
+success, 7 dollars left in current account
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+ID 2 not found, 0,1
+success, 0 dollars left in current account
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+success
+ID 0 not found
+ID 0 not found
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+fail, 0 dollars only in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+success, 5 dollars in current account
+success, 8 dollars in current account
+success
+ID 0 not found
+success
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+ID 2 not found
+success, 2 dollars left in current account
+success, 1 dollars left in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success, 5 dollars in current account
+ID 2 not found, 0,1
+success, 6 dollars in current account
+success
+fail, 6 dollars only in current account
+success, 9 dollars in current account
+success
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+success, 3 dollars left in current account
+fail, 3 dollars only in current account
+success, 3 dollars left in current account
+success, 11 dollars in current account
+success, 0 has 6 dollars
+success, 9 dollars left in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+To 0 6
+To 0 0
+To 0 2
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+To 0 6
+To 0 0
+To 0 2
+success, 3 dollars left in current account
+success
+success, 2 has 14 dollars
+ID 0 not found
+success, 10 dollars in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success
+success, 1 dollars left in current account
+success
+ID 0 not found
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+ID 0 not found
+fail, 1 dollars only in current account
+ID 2 not found
+success
+fail, 1 dollars only in current account
+success, 1 dollars left in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success, 5 dollars in current account
+success
+success
+success
+fail, 5 dollars only in current account
+success
+success, 7 dollars in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+success, 3 dollars left in current account
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+To 2 6
+To 2 0
+To 2 2
+To 2 6
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+success, 8 dollars in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+fail, 8 dollars only in current account
+success, 1 dollars left in current account
+fail, 1 dollars only in current account
+ID 0 not found, 1,2
+success, 0 dollars left in current account
+success, 3 dollars in current account
+success
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+To 2 6
+To 2 0
+To 2 2
+To 2 6
+success, 10 dollars in current account
+success, 19 dollars in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+success, 25 dollars in current account
+success, 24 dollars left in current account
+success, 1 has 24 dollars
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+success
+success, 29 dollars in current account
+success, 22 dollars left in current account
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+success, 22 dollars in current account
+success
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success, 16 dollars left in current account
+success, 12 dollars left in current account
+success, 16 dollars in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+To 0 4
+success, 22 dollars in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success, 16 dollars left in current account
+success, 17 dollars in current account
+success
+success, 9 dollars left in current account
+success, 10 dollars in current account
+success, 2 has 12 dollars
+success
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+success
+success
+success
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+success
+success, 1 has 10 dollars
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+To 2 6
+To 2 0
+To 2 2
+To 2 6
+To 2 4
+To 2 8
+success, 11 dollars in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+To 2 6
+To 2 0
+To 2 2
+To 2 6
+To 2 4
+To 2 8
+success, 11 dollars in current account
+success, 19 dollars in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+ID 0 not found
+success, 15 dollars left in current account
+success, 12 dollars left in current account
+success
+success
+success, 14 dollars in current account
+ID 0 exists, 00,01,02,03,04,05,06,07,08,09
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+success, 16 dollars in current account
+success, 21 dollars in current account
+success
+success
+ID 0 not found
+ID 2 not found
+success, 17 dollars left in current account
+ID 0 not found
+ID 0 not found, 1
+success, 19 dollars in current account
+success
+ID 2 not found
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+success, 28 dollars in current account
+success, 28 dollars left in current account
+success, 31 dollars in current account
+ID 0 not found
+success, 28 dollars left in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+success, 30 dollars in current account
+ID 0 not found
+ID 0 not found
+ID 0 not found
+ID 2 not found
+success, 30 dollars left in current account
+success, 36 dollars in current account
+success
+success, 27 dollars left in current account
+success, 19 dollars left in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success, 1 has 19 dollars
+ID 0 not found
+ID 0 not found, 1
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+ID 0 not found, 1
+ID 2 not found, 1
+success, 10 dollars left in current account
+ID 0 not found
+success, 15 dollars in current account
+success, 11 dollars left in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+ID 2 not found
+success, 2 dollars left in current account
+success, 8 dollars in current account
+success, 6 dollars left in current account
+success
+success, 2 dollars left in current account
+fail, 2 dollars only in current account
+success
+success, 6 dollars in current account
+fail, 6 dollars only in current account
+success, 14 dollars in current account
+success, 10 dollars left in current account
+success, 11 dollars in current account
+success, 7 dollars left in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success, 10 dollars in current account
+success, 7 dollars left in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+To 2 6
+To 2 0
+To 2 2
+To 2 6
+To 2 4
+To 2 8
+To 2 3
+ID 0 not found, 1,2
+success
+fail, 7 dollars only in current account
+ID 2 not found, 1
+fail, 7 dollars only in current account
+ID 2 not found
+success, 8 dollars in current account
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+To 2 6
+To 2 0
+To 2 2
+To 2 6
+To 2 4
+To 2 8
+To 2 3
+success, 4 dollars left in current account
+success, 5 dollars in current account
+fail, 5 dollars only in current account
+ID 2 not found, 1
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+ID 0 not found, 1
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+ID 0 not found
+success, 1 dollars left in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+ID 2 not found
+fail, 1 dollars only in current account
+success, 4 dollars in current account
+success
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+success, 3 dollars left in current account
+ID 2 not found
+success
+success
+ID 0 not found
+ID 0 not found, 1
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success, 10 dollars in current account
+success, 10 dollars in current account
+ID 0 not found
+success, 2 dollars left in current account
+success
+fail, 2 dollars only in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success, 4 dollars in current account
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+success, 7 dollars in current account
+fail, 7 dollars only in current account
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+success
+success, 4 dollars left in current account
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success, 4 dollars in current account
+success, 0 dollars left in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+To 0 3
+ID 2 exists, 20,21,22,23,24,25,26,27,28,29
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+fail, 0 dollars only in current account
+success, 0 has 3 dollars
+success, 1 dollars in current account
+fail, 1 dollars only in current account
+success
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+To 0 3
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+To 2 6
+To 2 0
+To 2 2
+To 2 6
+To 2 4
+To 2 8
+To 2 3
+success
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+ID 0 not found
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+To 0 3
+success, 2 dollars in current account
+success, 3 dollars in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+fail, 3 dollars only in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+To 0 3
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+To 2 6
+To 2 0
+To 2 2
+To 2 6
+To 2 4
+To 2 8
+To 2 3
+fail, 3 dollars only in current account
+ID 0 not found, 1,2
+success, 1 dollars left in current account
+ID 2 exists, 0,20,21,22,23,24,25,26,27,28
+success
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+fail, 1 dollars only in current account
+success
+success
+success
+ID 2 not found, 1
+ID 2 not found
+success, 9 dollars in current account
+ID 0 not found
+success, 9 dollars left in current account
+ID 0 not found
+success
+success
+success, 2 dollars left in current account
+success, 11 dollars in current account
+success, 2 dollars left in current account
+success, 11 dollars in current account
+ID 2 not found
+success, 14 dollars in current account
+success, 21 dollars in current account
+success
+success, 24 dollars in current account
+success, 15 dollars left in current account
+ID 2 not found, 0,1
+success
+success
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+ID 0 not found, 1,2
+success, 21 dollars in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+To 0 3
+To 0 9
+ID 0 not found, 1,2
+ID 0 not found
+success, 20 dollars left in current account
+success
+success, 20 dollars in current account
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+To 0 3
+To 0 9
+success, 19 dollars left in current account
+success, 15 dollars left in current account
+ID 0 not found
+success
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+To 2 6
+To 2 0
+To 2 2
+To 2 6
+To 2 4
+To 2 8
+To 2 3
+success
+ID 0 not found
+ID 0 not found
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success, 16 dollars in current account
+success, 16 dollars left in current account
+success
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success, 11 dollars left in current account
+success
+ID 1 exists, 10,11,12,13,14,15,16,17,18,19
+success
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+To 0 3
+To 0 9
+To 0 1
+To 0 3
+To 0 9
+To 0 6
+To 0 5
+To 0 0
+To 0 1
+To 0 6
+To 0 7
+To 0 3
+To 0 9
+ID 0 not found, 1,2
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success, 3 dollars left in current account
+ID 0 not found
+success
+success, 12 dollars in current account
+success, 14 dollars in current account
+success, 18 dollars in current account
+success
+ID 0 not found
+success, 18 dollars left in current account
+success, 26 dollars in current account
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success, 23 dollars left in current account
+success, 20 dollars left in current account
+success, 26 dollars in current account
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+To 2 6
+To 2 0
+To 2 2
+To 2 6
+To 2 4
+To 2 8
+To 2 3
+To 2 8
+ID 0 not found, 1,2
+success, 30 dollars in current account
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+To 2 6
+To 2 0
+To 2 2
+To 2 6
+To 2 4
+To 2 8
+To 2 3
+To 2 8
+success, 30 dollars in current account
+success, 34 dollars in current account
+ID 0 not found
+ID 1 exists, 0,10,11,12,13,14,15,16,17,18
+success, 40 dollars in current account
+success, 39 dollars left in current account
+ID 0 not found
+ID 0 not found
+success, 40 dollars in current account
+success
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+To 2 6
+To 2 0
+To 2 2
+To 2 6
+To 2 4
+To 2 8
+To 2 3
+To 2 8
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+ID 2 not found
+ID 2 not found
+success, 34 dollars left in current account
+success, 29 dollars left in current account
+success, 37 dollars in current account
+success, 29 dollars left in current account
+ID 0 not found
+ID 0 not found
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+To 2 6
+To 2 0
+To 2 2
+To 2 6
+To 2 4
+To 2 8
+To 2 3
+To 2 8
+To 2 4
+To 2 0
+To 2 6
+To 2 7
+To 2 6
+To 2 1
+To 2 8
+To 2 6
+To 2 0
+To 2 2
+To 2 6
+To 2 4
+To 2 8
+To 2 3
+To 2 8
+success
+ID 2 not found
+To 1 3
+From 1 3
+To 1 7
+From 1 7
+To 1 7
+From 1 7
+To 1 1
+From 1 1
+To 1 9
+From 1 9
+success, 31 dollars in current account
+ID 2 not found, 0,1
+success
+success, 27 dollars left in current account
+ID 0 not found
+success, 36 dollars in current account
+success, 38 dollars in current account
+success, 41 dollars in current account
+success, 41 dollars in current account
+success, 41 dollars in current account
+success, 46 dollars in current account
+ID 0 not found, 1
+success, 39 dollars left in current account

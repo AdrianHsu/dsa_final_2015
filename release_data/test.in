@@ -1,0 +1,30 @@
+create a 1
+create b 1
+login a 1
+deposit 1000
+transfer b 100
+delete a 1
+create a 1
+login a 1
+deposit 10000
+transfer b 1000
+create c 2
+login c 2
+merge b 1 a 1
+login b 1
+search a
+search b
+create c 2
+login c 2
+deposit 5000
+transfer b 1000
+create a 1
+login a 1
+deposit 2000
+transfer c 200
+transfer b 400
+merge c 2 b 1
+login c 2
+search a
+search b
+search c

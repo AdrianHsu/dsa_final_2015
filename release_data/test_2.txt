@@ -1,0 +1,11 @@
+create a a
+create b b
+create c c 
+login a a
+deposit 1000
+transfer b 100
+tranfer d 10 
+delete d d 
+delete a a 
+login b b 
+search a

@@ -1,0 +1,12 @@
+create ab0 ab0
+create ab1 ab1
+create ab2 ab2
+create ab3 ab3
+create ac0 ac0
+create ad0 ad0
+create be be
+create abc abc
+login abc abc
+deposit 1000
+transfer ab0 100
+create ab0 ab0

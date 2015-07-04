@@ -1,0 +1,42 @@
+create ABC abc
+create ABB abb
+login ABC abc
+deposit 1000
+transfer ABB 100
+login ABB abb
+search ABC
+delete ABC abc
+create ABC abc
+login ABC abc
+deposit 1000
+transfer ABB 200
+login ABB abb
+search ABC
+delete ABC abc
+create ABC abc
+login ABC abc
+deposit 1000
+transfer ABB 300
+login ABB abb
+search ABC
+delete ABC abc
+create ABC abc
+login ABC abc
+deposit 1000
+transfer ABB 400
+login ABB abb
+search ABC
+delete ABC abc
+create ABC abc
+login ABC abc
+deposit 1000
+transfer ABB 500
+login ABB abb
+search ABC
+delete ABC abc
+create ABC abc
+login ABC abc
+deposit 1000
+transfer ABB 600
+login ABB abb
+search ABC
